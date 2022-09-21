@@ -1,0 +1,23 @@
+{
+  "name": "sqat02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bookFlight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retsaftu/sqat02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retsaftu/sqat02/issues"
+  },
+  "homepage": "https://github.com/retsaftu/sqat02#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  }
+}
