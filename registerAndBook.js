@@ -1,7 +1,6 @@
 const { Builder, By, Key, until } = require('selenium-webdriver')
 const chrome = require('selenium-webdriver/chrome')
 
-let avia = 'https://www.aviasales.kz/?device=c.&gclid=CjwKCAjwyaWZBhBGEiwACslQo-3Brzlb83CqCi1vpDVdjECiugHinPGqmpjaOvNPXpofeK-0LsDtvRoCM4YQAvD_BwE&geo=9063099.1009806&network=g&params=NYC1&placement=&position=&term_match_type=e&utm_adgroup_id=114796430770&utm_campaign=kz_almaty_desktop_search_brand&utm_campaign_id=12578799523&utm_content_id=586709177225&utm_medium=cpc&utm_source=ga&utm_term=aviasales&utm_term_id=kwd-42393665022'
 let demo99 = `https://demo.guru99.com/test/newtours/`
 
 
